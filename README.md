@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rosellalupu!
-- 👀 I’m interested in creating a community for www.aurachain.ch.
+- 👀 I’m interested in creating a community for https://aurachain.ch.
 - 🌱 I’m currently learning Java Script.
 - 📫 How to reach me: email me at mihaela.lupu@aurachain.ch.
 
