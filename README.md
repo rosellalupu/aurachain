@@ -10,13 +10,8 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h1><strong>Getting Started With Aurachain Dashboard</h1></strong
+<h1><strong>What is Aurachain</h1></strong
 
-<a href="https://aurachain.ch">Aurachain</a> Dashboard is the main point of interaction with Aurachain. With Aurachain dashboard users have an intuitive and easy to use UI to keep track of their work tasks, and applications.
+<a href="https://aurachain.ch">Aurachain</a> is an intuitive low code platform that allows rapid creation of enterprise-grade digital process applications. Automates end-to-end processes connecting multiple systems, teams, and departments in a continuous flow optimized for efficiency. 
 
-In this article, you will find answers to everything you need to know to easily navigate through the dashboard.
 
-With the Aurachain Dashboard, users have an intuitive and easy to use UI to keep track of their work tasks and applications.
-
-The Dashboard
-This is the main point of interaction with Aurachain for all the users except external users.
